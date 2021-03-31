@@ -1,2 +1,4 @@
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-Someone remind me to do my bio
+I'm a 16 year old kid who has a love and hate relationshit with programming. I ♥ GitHub!
+
+Website: [CoolAbhi1290.GitHub.io/](https://coolabhi1290.github.io/)
+Username everywhere: CoolAbhi1290
