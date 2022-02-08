@@ -1,8 +1,8 @@
 ## About
 
 - 🚀 Aiming to be an aeronautical engineer.
-- 🌎 Website: [tresabhi.github.io](https://tresabhi.github.io/)
-- 🗨️ Join my [discord](https://discord.gg/nDt7AjGJQH), you pepperoni
+- 🌎 Website: [tresabhi.github.io](https://tresabhi.github.io/) (heavily work in progress)
+- 🗨️ Talk to me on [discord](https://discord.gg/nDt7AjGJQH)
 - 👶 Current name: TrésAbhi (_TresAbhi_)
 - 🧓 Old username: CoolAbhi1290
 
