@@ -7,7 +7,7 @@
 - 🧓 Old username: CoolAbhi1290
 
 ## Currently Working On...
-[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=TresAbhi&repo=Stellar&theme=nord)](https://github.com/TresAbhu/Stellar)
+[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=TresAbhi&repo=Stellar&theme=nord)](https://github.com/TresAbhi/Stellar)
 
 ## Stats
 
