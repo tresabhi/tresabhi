@@ -7,7 +7,9 @@
 - 🧓 Old username: CoolAbhi1290
 
 ## Currently Working On...
-[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=TresAbhi&repo=Stellar&theme=nord)](https://github.com/TresAbhi/Stellar)
+[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=tresabhi&repo=stellar&theme=nord)](https://github.com/tresabhi/stellar)
+
+[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=tresabhi&repo=stitches-dye&theme=nord)](https://github.com/tresabhi/stitches-dye)
 
 ## Stats
 
