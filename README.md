@@ -9,7 +9,7 @@
 ## Currently Working On...
 [![featured project](https://github-readme-stats.vercel.app/api/pin/?username=tresabhi&repo=stellar&theme=nord)](https://github.com/tresabhi/stellar)
 
-[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=tresabhi&repo=stitches-dye&theme=nord)](https://github.com/tresabhi/stitches-dye)
+[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=tresabhi&repo=ftc-powerplay-2022&theme=nord)](https://github.com/tresabhi/ftc-powerplay-2022)
 
 ## Stats
 
