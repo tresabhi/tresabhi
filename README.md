@@ -7,9 +7,7 @@
 - 🧓 Old username: CoolAbhi1290
 
 ## Currently Working On...
-[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=tresabhi&repo=stellar&theme=nord)](https://github.com/tresabhi/stellar)
-
-[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=tresabhi&repo=ftc-powerplay-2022&theme=nord)](https://github.com/tresabhi/ftc-powerplay-2022)
+[![featured project](https://github-readme-stats.vercel.app/api/pin/?username=tresabhi&repo=blitzkrieg&theme=nord)](https://github.com/tresabhi/blitzkrieg)
 
 ## Stats
 
