@@ -1,8 +1,8 @@
 ## About
 
 - 🚀 Studying aerospace engineering at Iowa State University
-- 🌎 Website: [tresabhi.github.io](https://tresabhi.github.io/)
-- 🗨️ Talk to me on [discord](https://discord.gg/nDt7AjGJQH)
+- 🌎 Website: https://tresabhi.github.io/
+- 🗨️ Talk to me on [Discord](https://discord.gg/nDt7AjGJQH)
 - 👶 Current name: TrésAbhi (_TresAbhi_)
 - 🧓 Old username: CoolAbhi1290
 
