@@ -4,7 +4,6 @@
 - 🌎 Website: https://tresabhi.github.io/
 - 🗨️ Talk to me on [Discord](https://discord.gg/nDt7AjGJQH)
 - 👶 Current name: TrésAbhi (_TresAbhi_)
-- 🧓 Old username: CoolAbhi1290
 
 ## Currently Working On...
 [![featured project](https://github-readme-stats.vercel.app/api/pin/?username=tresabhi&repo=blitzkrieg&theme=nord)](https://github.com/tresabhi/blitzkrieg)
