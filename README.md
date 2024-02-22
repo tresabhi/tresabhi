@@ -9,8 +9,6 @@
 ## Currently Working On...
 [![featured project](https://github-readme-stats.vercel.app/api/pin/?username=tresabhi&repo=blitzkrieg&theme=nord)](https://github.com/tresabhi/blitzkrieg)
 
-## Stats
-
-[![TresAbhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TresAbhi&theme=nord&show_icons=true&count_private=true)](https://github.com/TresAbhi)
+## Languages
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TresAbhi&theme=nord&layout=compact&langs_count=128)](https://github.com/TresAbhi)
